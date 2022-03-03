@@ -6,8 +6,6 @@ In this test, you will have to prove your full stack skills' worth, by building 
 
 Read carefully the instructions, as they contain all the details regarding this evaluation.
 
-We've already started a project for you, so it's easier to work with.
-
 - PHP >= 7.2.5
 - Laravel 7.xx
 
